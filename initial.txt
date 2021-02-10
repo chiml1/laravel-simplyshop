@@ -1,0 +1,6 @@
+admin:
+    email:admin@app.com
+    password:password
+user:
+    email:user@app.com
+    password:password
