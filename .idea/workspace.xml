@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbf2741d-91a5-4d5c-bd10-a9e2f63051f1" name="Default Changelist" comment="" />
+    <list default="true" id="fbf2741d-91a5-4d5c-bd10-a9e2f63051f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy dokument tekstowy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_01_21_205020_create_pizzas_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_21_205020_create_pizzas_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/order.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/order.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +196,7 @@
       <workItem from="1611756735253" duration="599000" />
       <workItem from="1612339595662" duration="207000" />
       <workItem from="1612879757993" duration="758000" />
-      <workItem from="1612973697910" duration="1660000" />
+      <workItem from="1612973697910" duration="5644000" />
     </task>
     <servers />
   </component>
